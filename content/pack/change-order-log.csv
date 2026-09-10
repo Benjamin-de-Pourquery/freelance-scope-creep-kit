@@ -1,0 +1,5 @@
+change_id,date_requested,client,project,description,impact_hours,impact_days,quoted_amount,currency,status,date_approved,date_invoiced,invoice_ref,notes
+CO-001,2026-01-15,Acme Corp,Website redesign,Add 3 extra landing page variants,8,1,960,EUR,pending,,,,Client asked via Slack — need written approval
+CO-002,2026-01-20,Beta Ltd,Brand guidelines,Include social media templates pack,12,2,1440,EUR,approved,2026-01-22,,,Approved by email — invoice after delivery
+CO-003,2026-02-01,Gamma SAS,App MVP,Additional admin dashboard screen,16,3,1920,EUR,invoiced,2026-02-03,2026-02-10,INV-2026-014,Scope creep from "quick addition"
+CO-004,2026-02-08,Delta Inc,Consulting,Extra stakeholder workshop,4,0.5,500,EUR,declined,,,,Out of scope — referred to new SOW
